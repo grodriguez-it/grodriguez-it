@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg" style="height: 4rem" />
 </p>
 </div>
-
+<br>
 <!-- Socials --> 
 <br>
 <h3 align="center">Contactemonos!</h3>  
