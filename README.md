@@ -1,6 +1,6 @@
 <!-- Intro -->
 
-<a href="https://grodriguez.vercel.app/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E16AQGNjTguzFfrTA/profile-displaybackgroundimage-shrink_350_1400/B4EZYjo953HMAY-/0/1744354664927?e=1756944000&v=beta&t=oOnvQu-8WbJ6qkfOIZqJONqx4IdOVRAAHnziEJaC2-0" /></a>
+<a href="https://grodriguez.vercel.app/" target="_blank"><img src="https://www.future-processing.com/blog/wp-content/uploads/2024/01/cover_ADP.jpg" /></a>
 
 <div>
   <h1> Gustavo Rodriguez</h1>
